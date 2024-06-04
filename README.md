@@ -10,5 +10,6 @@
 # Задание_3
 ![alt text](https://github.com/Aid1986/ELK/blob/main/4.png)
 
+![alt text](https://github.com/Aid1986/ELK/blob/main/6.png)
 # Задание_4
 ![alt text](https://github.com/Aid1986/ELK/blob/main/5.png)
